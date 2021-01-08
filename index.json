@@ -1,0 +1,574 @@
+{
+  "$schema": "https://raw.githubusercontent.com/aneyo/risa-dl/master/list.schema.json",
+  "upd": 1610074936340,
+  "list": [
+    {
+      "id": "wEiUd",
+      "index": "old soda longass cursortrail nya cat girl",
+      "info": {
+        "name": "Soda",
+        "alt": "★ Soda ★",
+        "authors": [
+          {
+            "name": "Soda",
+            "link": "https://osu.ppy.sh/users/3574962"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/220809"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/KTt0FFCt.png",
+        "imgs": [
+          "https://i.imgur.com/KTt0FFC.png",
+          "https://i.imgur.com/aWOnhbz.png",
+          "https://i.imgur.com/sixI8Mn.png",
+          "https://i.imgur.com/PrfVvQd.png",
+          "https://i.imgur.com/r6Dr9jA.png"
+        ],
+        "album": "https://imgur.com/a/pY6nnun"
+      },
+      "load": {
+        "links": [
+          "http://www.mediafire.com/file/aw19lrj2pqpqc4z/Soda_v1.5.osk/file",
+          "https://aneyo.github.io/risa-dl/wEiUd.osk"
+        ]
+      }
+    },
+    {
+      "id": "uiyrW",
+      "index": "pastel*palettes shuwa ayaya",
+      "info": {
+        "name": "Maruyama Aya",
+        "authors": [
+          {
+            "name": "Shizuku-",
+            "link": "https://osu.ppy.sh/users/1125647"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/906743"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/a6Tkw5Mt.png",
+        "imgs": [
+          "https://i.imgur.com/a6Tkw5M.png",
+          "https://i.imgur.com/a5LPKRg.png",
+          "https://i.imgur.com/JT3Kw0d.png",
+          "https://i.imgur.com/ozCzTiy.png"
+        ],
+        "album": "https://imgur.com/a/uJxhlQ9",
+        "video": "https://youtu.be/7a9GmJ0dEMM"
+      },
+      "load": {
+        "links": [
+          "https://aneyo.github.io/risa-dl/uiyrW.osk"
+        ]
+      }
+    },
+    {
+      "id": "F1Alf",
+      "index": "muse nishikino maki tomato",
+      "info": {
+        "name": "Nishikino Maki",
+        "authors": [
+          {
+            "name": "-Derek",
+            "link": "https://osu.ppy.sh/users/2636217"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/629620"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/0wIb27ht.png",
+        "imgs": [
+          "https://i.imgur.com/0wIb27h.png",
+          "https://i.imgur.com/RAh2jD4.png"
+        ],
+        "album": "https://imgur.com/a/ze8hzjW"
+      },
+      "load": {
+        "links": [
+          "https://aneyo.github.io/risa-dl/F1Alf.osk"
+        ]
+      }
+    },
+    {
+      "id": "waZR4",
+      "index": "muse minami kotori birb",
+      "info": {
+        "name": "Minami Kotori - The Legendary Minalinsky",
+        "authors": [
+          {
+            "name": "-Derek",
+            "link": "https://osu.ppy.sh/users/2636217"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/488896"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/M2LalCst.png",
+        "imgs": [
+          "https://i.imgur.com/M2LalCs.png",
+          "https://i.imgur.com/eGre0VM.png"
+        ],
+        "album": "https://imgur.com/a/s5Aihfc"
+      },
+      "load": {
+        "links": [
+          "https://aneyo.github.io/risa-dl/waZR4.osk"
+        ]
+      }
+    },
+    {
+      "id": "hJ23g",
+      "index": "aqours nopo king",
+      "info": {
+        "name": "Mirai Zura - Hanamaru Kunikida",
+        "authors": [
+          {
+            "name": "-Derek",
+            "link": "https://osu.ppy.sh/users/2636217"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/646087"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/JWHZLhlt.png",
+        "imgs": [
+          "https://i.imgur.com/JWHZLhl.png",
+          "https://i.imgur.com/8d6B2G8.png"
+        ],
+        "album": "https://imgur.com/a/afAO6xM"
+      },
+      "load": {
+        "links": [
+          "https://aneyo.github.io/risa-dl/hJ23g.osk"
+        ]
+      }
+    },
+    {
+      "id": "ls35W",
+      "index": "muse honk honkers",
+      "info": {
+        "name": "Honoka Kousaka",
+        "authors": [
+          {
+            "name": "ArchieA7",
+            "link": "https://osu.ppy.sh/users/7087699"
+          }
+        ],
+        "origin": {
+          "link": "https://www.reddit.com/r/OsuSkins/comments/b9or9i/honoka_kousaka_stdctbsdhd/"
+        }
+      },
+      "flags": {
+        "modded": true
+      },
+      "show": {
+        "thumb": "https://i.imgur.com/h44O1wGt.jpg",
+        "imgs": [
+          "https://i.imgur.com/h44O1wG.jpg",
+          "https://i.imgur.com/xiVkhO0.jpg",
+          "https://i.imgur.com/WzLvzfP.jpg",
+          "https://i.imgur.com/whAqkDY.jpg"
+        ],
+        "album": "https://imgur.com/a/TmsyuRp",
+        "video": "https://youtu.be/NQs3ckAX6H8"
+      },
+      "load": {
+        "links": [
+          "https://drive.google.com/open?id=1QqpQwrymW5wwZqV4FVbJKEsnVCVG_G5l",
+          "https://mega.nz/#!tBJzzAbA!MIEMfsOPA69gluET_6tGdIi3X7QRWDMpw8O_pYUej4w",
+          "https://aneyo.github.io/risa-dl/ls35W.osk"
+        ]
+      }
+    },
+    {
+      "id": "jvj47",
+      "index": "chesnok чеснок",
+      "info": {
+        "name": "Checknock",
+        "authors": [
+          {
+            "name": "KoFFeGold",
+            "link": "https://osu.gatari.pw/u/2331"
+          }
+        ],
+        "origin": {
+          "link": "https://www.dropbox.com/s/qwreqz6jzzmxvew/Checknock.osk?dl=0"
+        }
+      },
+      "flags": {
+        "modded": true
+      },
+      "show": {
+        "thumb": "https://i.imgur.com/v2Qh7dQt.png",
+        "imgs": [
+          "https://i.imgur.com/v2Qh7dQ.png",
+          "https://i.imgur.com/qPYlZAj.png",
+          "https://i.imgur.com/ouCgWZd.png",
+          "https://i.imgur.com/oRV3E98.png"
+        ]
+      },
+      "load": {
+        "links": [
+          "https://www.dropbox.com/s/qwreqz6jzzmxvew/Checknock.osk?dl=0",
+          "https://aneyo.github.io/risa-dl/jvj47.osk"
+        ]
+      }
+    },
+    {
+      "id": "LCPKX",
+      "index": "bemani 2dx 22 chrono diver",
+      "info": {
+        "name": "Beatmania IIDX 22 Pendual Future",
+        "authors": [
+          {
+            "name": "Garin",
+            "link": "https://osu.ppy.sh/users/2130664"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/419180"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/xbpNzfvt.png",
+        "imgs": [
+          "https://i.imgur.com/xbpNzfv.png",
+          "https://i.imgur.com/U2SjiMY.png",
+          "https://i.imgur.com/eSm4Kag.png"
+        ]
+      },
+      "load": {
+        "links": [
+          "https://mega.nz/#!nV1WiTKb!d6xoIJErbKMrfFMFN_ZV7NLW346a6wATLTLZZ8Tp5tY",
+          "https://aneyo.github.io/risa-dl/LCPKX.osk"
+        ]
+      }
+    },
+    {
+      "id": "g0W93",
+      "index": "the best skin ever",
+      "info": {
+        "name": "DA BEST SKIN EVBR",
+        "alt": "The Best Skin Ever",
+        "authors": [
+          {
+            "name": "SAM & Menani"
+          }
+        ]
+      },
+      "show": {
+        "video": "https://youtu.be/labGdwAgdbU"
+      },
+      "load": {
+        "links": [
+          "https://aneyo.github.io/risa-dl/g0W93.osk"
+        ]
+      }
+    },
+    {
+      "id": "q2YUP",
+      "info": {
+        "name": "SSHD",
+        "authors": [
+          {
+            "name": "Jax0N",
+            "link": "https://osu.ppy.sh/users/6029014"
+          }
+        ]
+      },
+      "flags": {
+        "modded": true
+      },
+      "show": {
+        "video": "https://youtu.be/SlGw9gifhfI"
+      },
+      "load": {
+        "links": [
+          "https://aneyo.github.io/risa-dl/q2YUP.osk"
+        ]
+      }
+    },
+    {
+      "id": "Janhs",
+      "index": "honoka kousaka honk honkers mod",
+      "info": {
+        "name": "Bread Goddess",
+        "authors": [
+          {
+            "name": "aneyo",
+            "link": "http://twitter.com/aneyuu"
+          }
+        ],
+        "origin": {
+          "link": "https://aneyo.github.io/risa/#OVblA"
+        }
+      },
+      "flags": {
+        "modded": true
+      },
+      "show": {
+        "video": "https://youtu.be/hLkJ9CmzZbo"
+      },
+      "load": {
+        "links": [
+          "https://drive.google.com/file/d/1R0UoTB_YKtmOVU-jaY4j-1zNO3B8P5BV/view?usp=sharing"
+        ]
+      }
+    },
+    {
+      "id": "ManaU",
+      "index": "sailor moon magic",
+      "info": {
+        "name": "Sailor Saturn",
+        "authors": [
+          {
+            "name": "aparine",
+            "link": "https://www.reddit.com/user/aparine"
+          }
+        ],
+        "origin": {
+          "link": "https://www.reddit.com/r/OsuSkins/comments/65s5bq/sailor_saturn_skin/"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/zAjEs9kt.jpg",
+        "imgs": [
+          "https://i.imgur.com/zAjEs9k.jpg",
+          "https://i.imgur.com/oEf2YAP.png"
+        ],
+        "album": "https://imgur.com/a/nUtRm"
+      },
+      "load": {
+        "links": [
+          "https://aneyo.github.io/risa-dl/ManaU.osk"
+        ]
+      }
+    },
+    {
+      "id": "hp4ZA",
+      "info": {
+        "name": "Burning Crow V2",
+        "authors": [
+          {
+            "name": "_Easy_"
+          }
+        ]
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/bOgUKNat.jpg",
+        "imgs": [
+          "https://i.imgur.com/bOgUKNa.jpg",
+          "https://i.imgur.com/Ft1r12o.jpg"
+        ],
+        "video": "https://youtu.be/2Bw1y21gqU4"
+      },
+      "load": {
+        "links": [
+          "https://aneyo.github.io/risa-dl/hp4ZA.osk"
+        ]
+      }
+    },
+    {
+      "id": "Afiad",
+      "index": "vall halla",
+      "info": {
+        "name": "VA-11 Hall-A - Cyberpunk skin",
+        "authors": [
+          {
+            "name": "Ice Tea citron",
+            "link": "https://osu.ppy.sh/users/7298776"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/727986"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/4hJ3K7Vt.png",
+        "imgs": [
+          "https://i.imgur.com/4hJ3K7V.png",
+          "https://i.imgur.com/16FRpE3.png"
+        ]
+      },
+      "load": {
+        "links": [
+          "https://mega.nz/#!t9kAxYqY!va2X7VH-B1GKfIip-Gxa8JyaSqSYW3dIpWS7XX5S7ko",
+          "https://aneyo.github.io/risa-dl/Afiad.osk"
+        ]
+      }
+    },
+    {
+      "id": "U3ldy",
+      "info": {
+        "name": "Windswept - Mix skin",
+        "authors": [
+          {
+            "name": "Ahitsu",
+            "link": "https://www.reddit.com/user/Ahitsu"
+          }
+        ],
+        "origin": {
+          "link": "https://www.reddit.com/r/OsuSkins/comments/7giajj/windswept_mix_skin_stdmania/"
+        }
+      },
+      "flags": {
+        "modded": true
+      },
+      "show": {
+        "thumb": "https://i.imgur.com/O5sjtoFt.jpg",
+        "imgs": [
+          "https://i.imgur.com/O5sjtoF.jpg",
+          "https://i.imgur.com/tCaWhoK.jpg"
+        ]
+      },
+      "load": {
+        "links": [
+          "https://aneyo.github.io/risa-dl/U3ldy.osk"
+        ]
+      }
+    },
+    {
+      "id": "yLaCh",
+      "index": "aqours",
+      "info": {
+        "name": "o7 - Yousoro",
+        "alt": "Watanabe You",
+        "authors": [
+          {
+            "name": "-Derek",
+            "link": "https://osu.ppy.sh/users/2636217"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/541376"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/eAhTMEht.png",
+        "imgs": [
+          "https://i.imgur.com/eAhTMEh.png",
+          "https://i.imgur.com/XoMJ9EU.png"
+        ]
+      },
+      "load": {
+        "links": [
+          "https://puu.sh/FGkFP/7b4ac2cc31.osk",
+          "https://aneyo.github.io/risa-dl/yLaCh.osk"
+        ]
+      }
+    },
+    {
+      "id": "MKFYQ",
+      "index": "aqours yoshiko tsushima",
+      "info": {
+        "name": "Yohane - The Fallen Angel",
+        "alt": "Yoshiko Tsushima",
+        "authors": [
+          {
+            "name": "-Derek",
+            "link": "https://osu.ppy.sh/users/2636217"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/523080"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/3yMFEZPt.png",
+        "imgs": [
+          "https://i.imgur.com/3yMFEZP.png",
+          "https://i.imgur.com/7ZP5XNX.png"
+        ]
+      },
+      "load": {
+        "links": [
+          "https://puu.sh/viP0D/a8e9c473cf.osk",
+          "https://aneyo.github.io/risa-dl/MKFYQ.osk"
+        ]
+      }
+    },
+    {
+      "id": "OVblA",
+      "index": "muse honk",
+      "info": {
+        "name": "Honkers - Kousaka Honoka",
+        "authors": [
+          {
+            "name": "-Derek",
+            "link": "https://osu.ppy.sh/users/2636217"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/518713"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/hlQuAbzt.png",
+        "imgs": [
+          "https://i.imgur.com/hlQuAbz.png",
+          "https://i.imgur.com/yA9Yct6.png"
+        ]
+      },
+      "load": {
+        "links": [
+          "https://puu.sh/xfT6q/a083f219a4.osk",
+          "https://aneyo.github.io/risa-dl/OVblA.osk"
+        ]
+      }
+    },
+    {
+      "id": "v7VNp",
+      "index": "aqours ruby",
+      "info": {
+        "name": "Ganbaruby - Kurosawa Ruby",
+        "authors": [
+          {
+            "name": "-Derek",
+            "link": "https://osu.ppy.sh/users/2636217"
+          }
+        ],
+        "origin": {
+          "link": "https://osu.ppy.sh/community/forums/topics/523080"
+        }
+      },
+      "flags": {},
+      "show": {
+        "thumb": "https://i.imgur.com/Acclaott.png",
+        "imgs": [
+          "https://i.imgur.com/Acclaot.png",
+          "https://i.imgur.com/TwqJcnq.png"
+        ]
+      },
+      "load": {
+        "links": [
+          "https://puu.sh/FIXUF/cf4e17dfac.osk",
+          "https://aneyo.github.io/risa-dl/v7VNp.osk"
+        ]
+      }
+    }
+  ]
+}
