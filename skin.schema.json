@@ -18,7 +18,7 @@
       "description": "Skin item",
       "required": [
         "id",
-        "info"
+        "load"
       ],
       "properties": {
         "id": {
@@ -61,6 +61,10 @@
             "name": {
               "type": "string",
               "description": "Skin name"
+            },
+            "alt": {
+              "type": "string",
+              "description": "Alternative skin name"
             },
             "authors": {
               "type": "array",
