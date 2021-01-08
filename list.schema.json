@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "$id": "https://aneyo.github.io/risa-dl/list.schema.json",
+  "type": "object",
+  "required": [
+    "upd",
+    "list"
+  ],
+  "properties": {
+    "upd": {
+      "type": "number",
+      "description": "Listing update timestamp",
+      "minimum": 0
+    },
+    "list": {
+      "type": "array",
+      "description": "Skins listing",
+      "items": {
+        "$ref": "skin.schema.json#/definitions/skin"
+      }
+    }
+  }
+}

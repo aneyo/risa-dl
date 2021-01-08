@@ -1,0 +1,118 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "$id": "https://aneyo.github.io/risa-dl/skin.schema.json",
+  "definitions": {
+    "link": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "link": {
+          "type": "string"
+        }
+      }
+    },
+    "skin": {
+      "type": "object",
+      "description": "Skin item",
+      "required": [
+        "id",
+        "info"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Skin ID"
+        },
+        "index": {
+          "type": "string",
+          "description": "Search index"
+        },
+        "flags": {
+          "type": "object",
+          "description": "Skin property flags",
+          "properties": {
+            "hidden": {
+              "type": "boolean",
+              "description": "Hide this skin from listing"
+            },
+            "medal": {
+              "type": "boolean",
+              "description": "Show medal next to the name"
+            },
+            "modded": {
+              "type": "boolean",
+              "description": "This skin is modded"
+            },
+            "mix": {
+              "type": "boolean",
+              "description": "This skin is a mix of others"
+            },
+            "nsfw": {
+              "type": "boolean",
+              "description": "This skin contains NSFW materials"
+            }
+          }
+        },
+        "info": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "Skin name"
+            },
+            "authors": {
+              "type": "array",
+              "description": "Skin authors",
+              "items": {
+                "$ref": "#/definitions/link"
+              }
+            },
+            "origin": {
+              "$ref": "#/definitions/link"
+            }
+          }
+        },
+        "show": {
+          "type": "object",
+          "description": "Visual description",
+          "properties": {
+            "thumb": {
+              "type": "string",
+              "description": "Skin thumbnail"
+            },
+            "imgs": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "album": {
+              "type": "string",
+              "description": "Screenshots album link"
+            },
+            "video": {
+              "type": "string",
+              "description": "Skin video-showcase"
+            }
+          }
+        },
+        "load": {
+          "type": "object",
+          "description": "Skin downloading props",
+          "properties": {
+            "links": {
+              "type": "array",
+              "description": "Download links"
+            },
+            "message": {
+              "type": "string",
+              "description": "Download message"
+            }
+          }
+        }
+      }
+    }
+  }
+}
