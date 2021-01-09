@@ -17,10 +17,16 @@
       "type": "object",
       "description": "Skin item",
       "required": [
+        "upd",
         "id",
         "load"
       ],
       "properties": {
+        "upd": {
+          "type": "number",
+          "description": "Skin upload/modify timestamp",
+          "minimum": 0
+        },
         "id": {
           "type": "string",
           "description": "Skin ID"
