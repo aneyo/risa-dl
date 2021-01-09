@@ -105,6 +105,10 @@
             "video": {
               "type": "string",
               "description": "Skin video-showcase"
+            },
+            "short": {
+              "type": "string",
+              "description": "Short skin animation"
             }
           }
         },
